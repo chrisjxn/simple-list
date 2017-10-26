@@ -1,4 +1,4 @@
-// ask mentor about console.log testing (want to see newInput on state, updated list on state, value in input box matches newInput on state). also ask about different ways of doing e.target.value. also, why are we passing a key into ListItem on List.js and then not using it? what is happening here? did I reset the input field correctly?
+// ask mentor about console.log testing (want to see newInput on state, updated list on state, value in input box matches newInput on state). also ask about different ways of doing e.target.value. also, why are we passing a key into ListItem on List.js and then not using it? what is happening here? did I reset the input field correctly? is there a way to have onClick handler trigger when user presses enter in the input box?
 
 import React, { Component } from 'react';
 import Form from './components/Form';
