@@ -26,9 +26,7 @@ class App extends Component {
     let updatedList = this.state.list;
     updatedList.push(this.state.newItem);
     this.setState({
-      list: updatedList
-    })
-    this.setState({
+      list: updatedList,
       newItem: '',
     })
   }
